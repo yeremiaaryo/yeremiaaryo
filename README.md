@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I'm a passionate backend engineer with expertise i
 ![Snake animation](https://github.com/yeremiaaryo/yeremiaaryo/blob/output/snake.svg)
 
 ### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yeremia-aryo)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/yeremia-aryo)
